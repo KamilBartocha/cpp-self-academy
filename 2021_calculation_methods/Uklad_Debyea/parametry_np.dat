@@ -1,0 +1,14 @@
+1
+1.254 1.5 4.65 0.5 1.55
+100 400
+-1.0 2.0
+
+
+
+
+T                                                              // czas eksperymenu
+wsp_lambda wsp_alpha1 wsp_alpha1q wsp_alpha2 wsp_alpha2w       // wspolczynniki rownania
+N M                                                            // N+2 liczba krokow przestrzennych i M+2 czasowych
+cr dr                                                          // zakres okna graficznego
+
+

@@ -4,3 +4,4 @@
 ### Directories description:
 - 2016_spoj_solutions: Spoj tasks solutions from high school
 - 2017_wms_course: cpp basics collage course
+- 2021_calculation_methods: Math calculation methods for solving differential equations problems

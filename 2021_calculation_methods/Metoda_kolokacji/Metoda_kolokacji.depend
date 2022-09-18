@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608893060 source:c:\users\bartocha\documents\wms\semestr 1\metody obliczeniowe\metoda_kolokacji\disnrutil.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	"disnrutil.h"
+
+1608892818 c:\users\bartocha\documents\wms\semestr 1\metody obliczeniowe\metoda_kolokacji\disnrutil.h
+

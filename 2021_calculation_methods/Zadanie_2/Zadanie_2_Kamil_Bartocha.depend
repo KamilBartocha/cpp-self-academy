@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604066593 source:c:\users\bartocha\documents\codo_blocks\zadanie_2_kamil_bartocha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"disnrutil.h"
+
+1603200972 c:\users\bartocha\documents\codo_blocks\zadanie_2_kamil_bartocha\disnrutil.h
+
